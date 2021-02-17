@@ -1,0 +1,5 @@
+My/
+packer_cache/
+*.box
+.vagrant/
+*.vdi
